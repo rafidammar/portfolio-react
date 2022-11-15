@@ -15,7 +15,7 @@ const BlogComp = () => {
                 <div className="row">
                     <div className="col-lg-4 col-md-6 col-sm-12">
                         <div className="card mb-5 shadow-sm">
-                            <img src="/src/assets/blog1.jpg" className="img-fluid" />
+                            <img src="/blog1.jpg" className="img-fluid" />
         
                             <div className="card-body">
                                 <div className="card-title">
@@ -35,7 +35,7 @@ const BlogComp = () => {
 
                     <div className="col-lg-4 col-md-6 col-sm-12">
                         <div className="card mb-5 shadow-sm">
-                            <img src="/src/assets/blog2.jpg" className="img-fluid" />
+                            <img src="/blog2.jpg" className="img-fluid" />
                 
                             <div className="card-body">
                                 <div className="card-title">
@@ -55,7 +55,7 @@ const BlogComp = () => {
 
                     <div className="col-lg-4 col-md-6 col-sm-12">
                         <div className="card mb-5 shadow-sm">
-                            <img src="/src/assets/blog3.jpg" className="img-fluid" alt="blog-3" />
+                            <img src="/blog3.jpg" className="img-fluid" alt="blog-3" />
         
                             <div className="card-body">
                                 <div className="card-title">

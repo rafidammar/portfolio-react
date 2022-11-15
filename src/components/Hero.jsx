@@ -11,7 +11,7 @@ const Hero = () => {
                         <a href="https://www.instagram.com/rafidammarr/">Contact Me</a>
                     </div>
                     <div className="container-2">
-                        <img className="hero-img" src="/src/assets/rafid formalnobg2.png" alt="rafid-img" />
+                        <img className="hero-img" src="/rafid formalnobg2.png" alt="rafid-img" />
                     </div>
                     <div className="container-3">
                         <p className="intro">I'm a</p>
